@@ -16,3 +16,8 @@ python main.py --event "Spring Gala" --date "2025-05-30"
 ```
 
 _Template regenerated 2025-04-26T11:43:28.828190_
+
+## Set your OpenRouter API key
+```bash
+export OPENROUTER_API_KEY=sk-or-XXXXXXXXXXXX  # do NOT commit this!
+```
